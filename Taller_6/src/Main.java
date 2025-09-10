@@ -16,6 +16,11 @@ public class Main{
     m1.mostrarDetalles();*/
 
 
+        // Ejercicio 3 Taller 6, Mala práctica en el uso de protected para proyectos críticos y solucion al caso.
+Banco Bancolombia = new Banco(3339);
+Bancolombia.datos();
+
+
 
         }
     }
