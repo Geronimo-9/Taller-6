@@ -41,7 +41,7 @@ public class Empleado{
      this.departamento = departamento;
  }
 
-
+@Override
  void mostrarInformacion(){
      System.out.println(" Nombre:"+nombre+" Salario: "+salario+" Departamento: "+departamento+" ");
  }
